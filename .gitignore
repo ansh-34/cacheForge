@@ -1,0 +1,46 @@
+# CMake generated files
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+Testing/
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps/
+CMakeUserPresets.json
+# IDE-specific files
+vscode/
+.vscode/
+cache/
+clangd/
+local
+build
+build*
+output
+out
+/benchmarks/results/*
+!/benchmarks/results/.gitkeep
+# Compiled object files
+*.o
+*.obj
+# Compiled dynamic libraries
+*.so
+*.dylib
+*.dll
+# Compiled static libraries
+*.a
+*.lib
+# Executables
+*.exe
+*.out
+*.app
+
+# Database snapshots
+*.cacheforge
+*.cacheforge.tmp
+*.reddish
+*.reddish.tmp
+dump.*
